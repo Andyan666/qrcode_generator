@@ -110,7 +110,7 @@ python qrcode_generator.py
 project/
 ├── qrcode_generator.py  # Main program
 ├── README_CN.md            # Chinese documentation
-└── README_EN.md         # English documentation
+└── README.md         # English documentation
 ```
 
 ## Tech Stack
